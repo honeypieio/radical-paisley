@@ -54,7 +54,7 @@ header {
   padding-top: 1rem;
 }
 
-summary {
+summary, footer {
   border-top: 1px solid var(--border-color-softer);
   padding: 4rem 0;
   margin-bottom: 0;
@@ -66,3 +66,10 @@ summary {
   font-weight: 600;
 }
 
+footer {
+  text-align: center;
+}
+
+.paisley-groups a img {
+  width: 100%;
+}

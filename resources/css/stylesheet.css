@@ -66,6 +66,10 @@ summary, footer {
   font-weight: 600;
 }
 
+a {
+  font-weight: bold;
+}
+
 footer {
   text-align: center;
 }

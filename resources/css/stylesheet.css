@@ -72,4 +72,5 @@ footer {
 
 .paisley-groups a img {
   width: 100%;
+  max-width: 300px;
 }
